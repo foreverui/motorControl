@@ -1,5 +1,5 @@
 # motorControl
-**motor control simulation with Simulink for ECE517 Finle**<br />
+**motor control simulation with Simulink for ECE517 Final Project**<br />
 * Some fundamental introduction for how motor, inverter, control works
 * [final project Report](https://github.com/foreverui/motorControl/blob/main/PMSM%20FOC%20Control%20PDF.pdf)<br />
 * [Simulink Model](https://github.com/foreverui/motorControl/blob/main/PMmotorFocECE517.slx)<br />
